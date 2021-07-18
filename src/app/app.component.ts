@@ -19,7 +19,8 @@ export class AppComponent implements OnInit {
       'Sachin',
       'Satish',
       'Avani',
-      'Antara'
+      'Antara',
+      'Ashwini'
     );
   }
 
